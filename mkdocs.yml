@@ -1,6 +1,7 @@
 site_name: AT202 CTH Wiki
+docs_dir: docs
 theme:
-  name: cinder
+  name: readthedocs
   features:
     - navigation.tabs
     - navigation.indexes
@@ -23,7 +24,8 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.arithmatex:
-      inline_syntax: true
+      inline_syntax: ['dollar', 'round']
+      block_syntax: ['dollar', 'round']
       generic: true
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js

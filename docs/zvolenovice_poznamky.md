@@ -6,7 +6,10 @@ Té mínus třináct<br>
 ## Obecné organizační věci
 - Základní cena tábora: 7 500 CZK 
   - Affiliate sleva 500 CZK/osoba = doporučil jsem tábor někomu, kdo jede letos poprvé. Souvisí s [marketingem](#marketing).
-$$\text{Cena tábora} = \max{\{0,\ 7500 - 500 \cdot (\text{počet doporučení co jedou})\}}\ \text{CZK}$$
+  
+$$
+	\text{Cena tábora} = \max\{0,\ 7500 - 500 \cdot (\text{počet doporučení co jedou})\}\ \text{CZK}
+$$
 <!--
   - Sleva na sourozence je 500 CZK na každého staršího sourozence co jede.
 $$\text{Cena tábora} = \max{\{0,\ 7300 - 500 \cdot (\text{počet doporučení co jedou} + \text{počet starších sourozenců co jedou})\}}\ \text{CZK}$$
@@ -20,7 +23,7 @@ $$\text{Cena tábora} = \max{\{0,\ 7300 - 500 \cdot (\text{počet doporučení c
   - Kongres v pátek dopoledne
 
 > **Miloš:** *eeee... něco jsem chtěl strašně důležitýho... JO!* <br>
-> Výsedek viz [nákupy](#nákup)
+> Výsedek viz [nákupy](#nakup)
 
 ### Termíny
 
@@ -79,7 +82,6 @@ CTH CEO – Moravák
     - Mohou získat předměty
 
 ---
----
 
 ## TODO
 
@@ -113,4 +115,4 @@ CTH CEO – Moravák
 - Pláštěnky na dalekohledy
 
 
-![Barča](image.png)
+![Barča](barborka.png)
