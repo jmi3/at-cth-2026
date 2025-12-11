@@ -1,0 +1,6 @@
+site_name: AT202 CTH Wiki
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - ReadMe: README.md
