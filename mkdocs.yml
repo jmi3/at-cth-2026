@@ -1,5 +1,4 @@
 site_name: AT202 CTH Wiki
-theme:
-  name: material
+theme: { name: 'cinder'}
 nav:
   - Home: index.md

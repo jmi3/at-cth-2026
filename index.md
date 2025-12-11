@@ -1,3 +1,0 @@
-# Rozcestník
-
-Ahoj :D
