@@ -1,4 +1,29 @@
 site_name: AT202 CTH Wiki
-theme: { name: 'cinder'}
+theme:
+  name: cinder
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - content.code.copy
+    - content.tabs.link
 nav:
   - Home: index.md
+  - Zvolenovice: zvolenovice_poznamky.md
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - tables
+  - def_list
+  - attr_list
+  - md_in_html
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.arithmatex:
+      inline_syntax: true
+      generic: true
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
