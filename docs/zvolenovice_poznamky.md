@@ -113,6 +113,3 @@ CTH CEO – Moravák
   - Stejné jak máme, ale menší 😘😶‍🌫️
 - Kvalitní barlow
 - Pláštěnky na dalekohledy
-
-
-![Barča](barborka.png)
