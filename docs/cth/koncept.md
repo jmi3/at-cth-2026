@@ -15,3 +15,5 @@
     - Mohou získat body
     - Mohou získat peníze
     - Mohou získat předměty
+
+

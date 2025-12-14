@@ -13,6 +13,8 @@ nav:
       - TODO: todo_list.md
   - Celotáborová hra:
       - Koncept hry: cth/koncept.md
+      - Návrh 1: cth/navrh1.md
+      - Návrh 2: cth/navrh2.md
 markdown_extensions:
   - admonition
   - toc:
