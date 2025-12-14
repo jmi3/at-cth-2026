@@ -1,4 +1,4 @@
-site_name: AT202 CTH Wiki
+site_name: AT2026 CTH Wiki
 docs_dir: docs
 theme:
   name: readthedocs
@@ -8,8 +8,11 @@ theme:
     - content.code.copy
     - content.tabs.link
 nav:
-  - Home: index.md
-  - Zvolenovice: zvolenovice_poznamky.md
+  - Obecné informace:
+      - AT2026 info: index.md
+      - TODO: todo_list.md
+  - Celotáborová hra:
+      - Koncept hry: cth/koncept.md
 markdown_extensions:
   - admonition
   - toc:
