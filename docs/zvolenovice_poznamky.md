@@ -5,7 +5,7 @@ Té mínus třináct<br>
 
 ## Obecné organizační věci
 - Základní cena tábora: 7 500 CZK 
-  - Affiliate sleva 500 CZK/osoba = doporučil jsem tábor někomu, kdo jede letos poprvé. Souvisí s [marketingem](#marketing).
+    - Affiliate sleva 500 CZK/osoba = doporučil jsem tábor někomu, kdo jede letos poprvé. Souvisí s [marketingem](#marketing).
   
 $$
 	\text{Cena tábora} = \max\{0,\ 7500 - 500 \cdot (\text{počet doporučení co jedou})\}\ \text{CZK}
@@ -16,11 +16,11 @@ $$\text{Cena tábora} = \max{\{0,\ 7300 - 500 \cdot (\text{počet doporučení c
 -->
 - Datum konání: 17. 7. (pátek) - 1. 8. (sobota)
 - Děti příjezd: 18. 7. (sobota)
-  - Rušíme vlak z Jihlavy, nabídneme Budějovice –> Borovany s tím, že by se dětem vzaly věci dodávkou přímo z Budějek
+    - Rušíme vlak z Jihlavy, nabídneme Budějovice –> Borovany s tím, že by se dětem vzaly věci dodávkou přímo z Budějek
 - Děti odjezd: 31. 7. (pátek, časově 15:00-17:00 $\Rightarrow$ OBĚD NAVÍC!) 
-  - Rušíme vlak do Jihlavy, nabídneme Borovany –> Budějovice s tím, že by se dětem vzaly věci dodávkou přímo do Budějek
-  - Vyhlášení CTH ve čtvrtek před afterparty
-  - Kongres v pátek dopoledne
+    - Rušíme vlak do Jihlavy, nabídneme Borovany –> Budějovice s tím, že by se dětem vzaly věci dodávkou přímo do Budějek
+    - Vyhlášení CTH ve čtvrtek před afterparty
+    - Kongres v pátek dopoledne
 
 > **Miloš:** *eeee... něco jsem chtěl strašně důležitýho... JO!* <br>
 > Výsedek viz [nákupy](#nakup)
@@ -72,14 +72,14 @@ CTH CEO – Moravák
 - Děti budou sbírat kontrakty a plnit je, za to budou získávat bodíky
 - Například krabice od kartonu (**KARTONU**) a z nich modely raket a družic apod.
 - Různé hodnoticí cíle:
-  - Peníze na konci ( $10\cdot\log_{6.9}(\text{peníze})$ )
-  - Dostali se na Mars? 
-    - 50 b úspěch, 25 b havárie na povrchu, 10 b když se dostali dost daleko, aby doletěli k Marsu, ale minuli
-    - Body jsou aditivní - můžou přistát vícekrát
-  - V průběhu tábora mohou plnit kontrakty
-    - Mohou získat body
-    - Mohou získat peníze
-    - Mohou získat předměty
+    - Peníze na konci ( $10\cdot\log_{6.9}(\text{peníze})$ )
+    - Dostali se na Mars? 
+        - 50 b úspěch, 25 b havárie na povrchu, 10 b když se dostali dost daleko, aby doletěli k Marsu, ale minuli
+        - Body jsou aditivní - můžou přistát vícekrát
+    - V průběhu tábora mohou plnit kontrakty
+        - Mohou získat body
+        - Mohou získat peníze
+        - Mohou získat předměty
 
 ---
 
@@ -100,16 +100,16 @@ CTH CEO – Moravák
 - Plakát zajistí grafický tým
 - Do 14. prosince nachystat propagační videa (Stefka)
 - Zjistit, co s kartama EdenRed benefit či BenefitPlus
-  - Zmínit na webu pokud je akceptujeme a popř. jak
+    - Zmínit na webu pokud je akceptujeme a popř. jak
 
 ### Nákup
 
 - Lavičky a stoly
-  - cca. 5 stolů, 12 lavic
-  - Navíc i igelitové ubrusy
+    - cca. 5 stolů, 12 lavic
+    - Navíc i igelitové ubrusy
 - Minipočítače s Windowsem
-  - Kíťa ví
+    - Kíťa ví
 - Malé promítací plátno (do stanu)
-  - Stejné jak máme, ale menší 😘😶‍🌫️
+    - Stejné jak máme, ale menší 😘😶‍🌫️
 - Kvalitní barlow
 - Pláštěnky na dalekohledy
