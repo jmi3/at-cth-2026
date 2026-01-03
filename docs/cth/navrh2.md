@@ -1,6 +1,8 @@
 # Návrh 2
 
-Děcka si v prvních dvou dnech vymyslí startup na kterém zbohatnou a pak to odprezentují před sharky, který to od nich odkoupí. Z peněz co vydělají si založí space agency, a začnou plnit kontrakty. Tyto kontrakty budou poskytovat buď další peníze, nebo body pro vítězství. 
+Děcka si v prvních dvou dnech vymyslí startup na kterém zbohatnou a pak to odprezentují před sharky, který to od nich odkoupí.
+Z peněz co vydělají si založí space agency, a začnou plnit kontrakty.
+Tyto kontrakty budou poskytovat buď další peníze, nebo body pro vítězství. 
 
 Na každý kontrakt potřebuješ raketu s různými parametry, např. podpora života apod.
 
@@ -32,7 +34,7 @@ Potenciálně za hry i akcie, pokud jich bude hodně v oběhu.
     - Odhad změny síly měny vůči hvězdnému prachu (perník)
 -->
 
-## Kontrakty
+## Kontrakty - upravíme podle dostupnosti programátorů
 - Proměnlivá délka, vizualizace progresu real-time na televizi
 - Procedurálně generované z kategorií
 - Každý kontrakt bude mít finanční náročnost a technické požadavky 
@@ -55,3 +57,18 @@ Potenciálně za hry i akcie, pokud jich bude hodně v oběhu.
 - Lidská posádka
     - Ano
     - Ne
+
+# Návrh 2.1 : Návrh 2
+Jednou za 2-4 dny se bude dělat kolo výběru součástek na hlavní raketu, každý tým sám za sebe, ale bude společný cíl
+- Hodnocení pak odvinuté od podílu na hlavní raketě
+
+
+# Návrh 2.2 : Návrh 2
+Děcka si budou stavit raketu každý sám za sebe – žádný společný cíl. 
+- Hodnocení pak odvinuté od nejlepší rakety
+
+# K projednání:
+
+- Bude Klárka ready na nějaký scénář?
+- Časová kapacita programátorů?
+    - Dle toho se rozhodne "matičky" vs "televize"
