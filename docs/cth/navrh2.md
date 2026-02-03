@@ -19,7 +19,7 @@ Potenciálně za hry i akcie, pokud jich bude hodně v oběhu.
 1. Kontraktor
     - Týmy si zde mohou zadat plnění kontraktu
 2. Akciový trh
-    - Mohou investovat do akcií konkurenční firmy (týmu)
+    - Mohou investovat do akcií konkurenční firmy (týmu)git 
     - My simulujeme nekonečnou kupní sílu trhu
       - co přinesou my koupíme
       - můžeme prodat komukoliv

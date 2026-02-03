@@ -15,8 +15,6 @@ nav:
       - Koncept hry: cth/koncept.md
       - Návrh 1: cth/navrh1.md
       - Návrh 2: cth/navrh2.md
-  - Showcase:
-      - Procedurální generování: showcase/index.html
 markdown_extensions:
   - admonition
   - toc:
