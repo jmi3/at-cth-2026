@@ -1,4 +1,4 @@
-site_name: AT2026 CTH Wiki
+site_name: CTH Wiki
 docs_dir: docs
 theme:
   name: readthedocs
@@ -8,9 +8,6 @@ theme:
     - content.code.copy
     - content.tabs.link
 nav:
-  - Obecné informace:
-      - AT2026 info: index.md
-      - TODO: todo_list.md
   - CTH Dokumentace:
       - Přehled: cth/kontext.md
       - Kontrakty: cth/kontrakty.md
