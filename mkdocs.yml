@@ -11,10 +11,15 @@ nav:
   - Obecné informace:
       - AT2026 info: index.md
       - TODO: todo_list.md
-  - Celotáborová hra:
-      - Koncept hry: cth/koncept.md
-      - Návrh 1: cth/navrh1.md
-      - Návrh 2: cth/navrh2.md
+  - CTH Dokumentace:
+      - Přehled: cth/kontext.md
+      - Kontrakty: cth/kontrakty.md
+      - Stanoviště: cth/stanoviste.md
+      - Model trhu: cth/model_trhu.md
+  - Návrhy k CTH:
+      - Koncept hry: cth_navrhy/koncept.md
+      - Návrh 1: cth_navrhy/navrh1.md
+      - Návrh 2: cth_navrhy/navrh2.md
 markdown_extensions:
   - admonition
   - toc:
