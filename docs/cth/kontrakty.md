@@ -39,3 +39,14 @@ Kontrakty s úkolem lze nesplnit. Příklad kontraktu s úkolem je přistání n
     -  Ne moc, aby to nerozbilo hru
     - Body lze rozdělit na: (1) výkon letu, (2) prezentace a proces, (3) bezpečnost a férovost.
 
+
+## Realizace na táboře
+
+Kontrakty budou vytisklé a na nějaké globální nástěnce.
+Z té si je budou moct přinést na stanoviště kontraktora, který jim je zapíše do "knihy plnění kontraktů" = google shits tabulka.
+Následně si je týmy pověsí na svou nástěnku kontraktů.
+
+Volitelné:
+- Sloty na kontrakty/neomezený počet kontraktů.
+    - Další možnost pak je, že peníze si mohou dokoupit sloty na aktivní kontrakty
+- Průběh kontraktů i na televizi. 

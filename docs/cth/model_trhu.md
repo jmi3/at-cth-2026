@@ -1,7 +1,7 @@
 
 # Model trhu
 
-Budeme mít peníze. Budou virtuální a stav účtů bude vidět na televizi. Děti budou dostávat šeky, příkazy k platbě a potvrzení o platbě. Šeky budou napříkad na za hry - dostanou šek od nás a nechají si to přímo převést na účet. 
+Budeme mít peníze. Budou virtuální a stav účtů bude vidět na televizi. Děti budou dostávat šeky, příkazy k platbě a potvrzení o platbě. Šeky budou napříkad za hry - dostanou šek od nás a nechají si to přímo převést na svůj účet. 
 
 Bude stanoviště bankéř, co bude před sebou mít tabulku s penězma týmů a děcka z týmu za ním budou chodit udávat příkazy k převodu (dostanou na stanovišti papírek jako příkaz k převodu i s přesnou částkou). Po převední peněz dostanou potvrzení o převodu, které donesou na stanoviště a to jim vydá, co si koupili. 
 
