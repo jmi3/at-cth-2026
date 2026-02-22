@@ -1,9 +1,11 @@
 
 # Model trhu
 
-Budeme mít peníze. Budou virtuální a stav účtů bude vidět na televizi. Každé stanoviště bude mít přístup k změně zůstatku na účtu - otevře se transakce, to zamkne změny pro ostatní stanoviště (aby nemohli kupovat na dvou naráz a dostat se tak do mínusu), provede se změna a účet se aktualizuje a odblokuje.
+Budeme mít peníze. Budou virtuální a stav účtů bude vidět na televizi. Děti budou dostávat šeky, příkazy k platbě a potvrzení o platbě. Šeky budou napříkad na za hry - dostanou šek od nás a nechají si to přímo převést na účet. 
 
--> Budeme asi potřebovat nějakou jednoduchou appku na telefonu/webu, kde to půjde měnit. Pokud se nám nebude chtít, jakože asi ani moc ne, uděláme to jinak. Například: Bude stanoviště bankéř, co bude před sebou mít tabulku s penězma týmů a děcka z týmu za ním budou chodit udávat příkazy k převodu (dostanou na stanovišti papírek i s přesnou částkou). Po převední peněz dostanou potvrzení o převodu, které donesou na stanoviště a to jim vydá, co si koupili. 
+Bude stanoviště bankéř, co bude před sebou mít tabulku s penězma týmů a děcka z týmu za ním budou chodit udávat příkazy k převodu (dostanou na stanovišti papírek jako příkaz k převodu i s přesnou částkou). Po převední peněz dostanou potvrzení o převodu, které donesou na stanoviště a to jim vydá, co si koupili. 
+
+Stejný přístup k penězům týmu bude na akciovém trhu, kde budou mít otevřenou stejnou tabulku (stačí imo google sheet...)
 
 ## Vývoj ceny akcií 
 Akcie jednotlivých týmů se budou řídit ~° ***něčím*** °~

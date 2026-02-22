@@ -20,6 +20,6 @@ Hodnoty navýšení/snížení tržní hodnoty firmy po splnění/nesplnění da
 Změna zájmu o celý business
 
 
-## 5. Banka?
-Příkazy k převodu peněz, potvrzení o převodech. 
+## 5. Banka
+Příkazy k převodu peněz, potvrzení o převodech. Bude bankéř co to bude držet pohromadě. 
 
